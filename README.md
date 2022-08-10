@@ -6,11 +6,7 @@ Aspiring Software Engineer
 
 I started my code journey in college and have been enjoying python and java; I enjoy the problem-solving aspects of programming. I love conceiving, designing, and building efficient and fun programs.
 
-*   🌍  I'm based in Somerset, New Jersey
-*   🖥️  See my portfolio at [MySite](http://manavgohil.me)
 *   ✉️  You can contact me at [manav.gohil@rutgers.edu](mailto:manav.gohil@rutgers.edu)
-*   🚀  I'm currently working on [NodeChatApp](http://manavgohil.me)
-*   🧠  I'm learning Distributed Systems
 *   🤝  I'm open to collaborating on Joe Mama### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -43,10 +39,9 @@ I started my code journey in college and have been enjoying python and java; I e
                                 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
                     </p>
                     
-                  
-### Socials  <p align="left"> <a href="https://discord.com/users/manav#5560" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ManavManavManav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/manav-gohil-10a440218/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/19732123/manav-gohil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Manav_Go" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
+### Socials
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ManavManavManav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ManavManavManav&stroke=a855f7&background=0f172a&ring=22c55e&fire=22c55e&currStreakNum=a855f7&currStreakLabel=22c55e&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+<p align="left">
+
+<a href="https://discord.com/users/manav#5560" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a><a href="https://www.github.com/ManavManavManav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/manav-gohil-10a440218/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a><a href="https://www.stackoverflow.com/users/19732123/manav-gohil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a><a href="https://www.twitter.com/Manav_Go" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>

@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manav Gohil
 ===================================================================================================================================
 
-Aspiring Software Engineer
+Software Engineer
 --------------------------
 
 I started my code journey in college and have been enjoying python and java; I enjoy the problem-solving aspects of programming. I love conceiving, designing, and building efficient and fun programs.

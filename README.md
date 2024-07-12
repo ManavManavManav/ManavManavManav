@@ -1,4 +1,4 @@
-Hi ! My name is Manav Gohil
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Manav Gohil
 ===================================================================================================================================
 
 Software Engineer
@@ -6,7 +6,7 @@ Software Engineer
 
 I started my code journey in college and have been enjoying python and java; I enjoy the problem-solving aspects of programming. I love conceiving, designing, and building efficient and fun programs.
 
-*   ✉️  You can contact me at [manav.gohil@rutgers.edu](mailto:manav.gohil@rutgers.edu)
+*   ✉️  You can contact me at [manavschhoolmac@gmail.com](mailto:manavschhoolmac@gmail.com)
 *   🤝  I'm open to collaborating on Joe Mama
 ### Skills
 <p align="left">

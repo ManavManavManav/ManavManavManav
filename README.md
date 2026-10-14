@@ -1,8 +1,8 @@
-### hey, i'm manav 👋
+### Hey, i'm Manav
 
-engineer at lockheed martin, rutgers cs grad, based in nj.
+Engineer at lockheed martin, rutgers cs grad.
 
-on the side i mess around with ai agents, hardware hacks, and remaking old games. mostly for fun, occasionally useful.
+On the side i mess around with ai agents, hardware hacks, and remaking old games. mostly for fun, occasionally useful.
 
 - 📬 manavschhoolmac@gmail.com
 - 🔗 [linkedin](https://www.linkedin.com/in/manav-gohil-10a440218/)
